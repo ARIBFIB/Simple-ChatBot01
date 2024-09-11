@@ -1,9 +1,14 @@
-# React + Vite
+# ChatBot 
+# Create Using React
+## Integrating Gemimi APIs
+The UI is not properly designed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/2a498681-195c-4d6a-9297-cd43feb8b960)
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/c1b586f8-c5c9-432f-9d25-46b90a47b6d7)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Simple-ChatBot01
+![image](https://github.com/user-attachments/assets/173a9ab5-25bc-4035-a33b-c1faf3d012d6)
+
+![image](https://github.com/user-attachments/assets/6b13850b-f2dc-42bb-9914-d75c15fd70ad)
+
+![image](https://github.com/user-attachments/assets/711b7ef2-f00e-464a-a150-d6bfdcc9668f)
